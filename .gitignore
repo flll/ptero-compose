@@ -1,0 +1,7 @@
+.env
+.env copy
+build.log
+data
+!data/.gitkeep
+nginx.conf
+nginx-default.conf
